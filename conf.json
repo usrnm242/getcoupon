@@ -1,5 +1,6 @@
 {
-    "serverAddress": "http://docker176113-env-7860493.jelastic.regruhosting.ru/",
-    "iosJson": "ios-collections.json",
-    "androidJson": "android-collections.json"
+    "serverAddress": "http://docker176113-env-7860493.jelastic.regruhosting.ru",
+    "iosJson": "/ios-collections.json",
+    "androidJson": "/android-collections.json",
+    "ads": "/adspromo/ads.json"
 }
