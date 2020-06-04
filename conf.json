@@ -1,0 +1,5 @@
+{
+    "serverAddress": "http://docker176113-env-7860493.jelastic.regruhosting.ru/",
+    "iosJson": "ios-collections.json",
+    "androidJsson": "android-collections.json"
+}
