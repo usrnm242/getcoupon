@@ -1,6 +1,18 @@
 {
-    "serverAddress": "http://docker176113-env-7860493.jelastic.regruhosting.ru",
-    "iosJson": "/ios-collections.json",
-    "androidJson": "/android-collections.json",
-    "ads": "/adspromo/ads.json"
+    "servers": [
+        {
+            "serverAddress": "http://docker176113-env-7860493.jelastic.regruhosting.ru",
+            "iosJson": "/ios-collections.json",
+            "androidJson": "/android-collections.json",
+            "ads": "/adspromo/ads.json"
+        },
+        {
+            "serverAddress": "https://www.dropbox.com/s/qge216pbfilhy08",
+            "iosJson": "/collections.json?dl=1",
+            "androidJson": "/collections.json?dl=1",
+            "ads": ""
+        }
+    ],
+    "AppStoreLink": "https://example.com",
+    "GooglePlayLink": "https://example.com"
 }

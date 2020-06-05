@@ -1,23 +1,35 @@
 import json
 import requests
 
-with open("conf.json", 'r') as file:
-    conf = file.read()
+with open("conf.json", 'r') as confFile:
+    conf = confFile.read()
 
-d = json.loads(conf)
+conf = json.loads(conf)
 
-server = d['serverAddress']
-ios = d['iosJson']
-android = d['androidJson']
+iosJson = None
 
-ios_json_addr = f"{server}{ios}"
-android_json_addr = f"{server}{android}"
+for server in conf['servers']:
+    serverAddr = server['serverAddress']
+    iosJsonPath = server['iosJson']
+    androidJsonPath = server['androidJson']
+    adsPath = server['ads'] if server['ads'] != "" else None
 
-ios_req = requests.get(ios_json_addr)
-android_req = requests.get(android_json_addr)
+    iosJsonAddr = f"{serverAddr}{iosJsonPath}"
+    androidJsonAddr = f"{serverAddr}{androidJsonPath}"
 
-ios_json = json.loads(ios_req.text, encoding="utf-8")
-android_json = json.loads(android_req.text, encoding="utf-8")
+    try:
+        iosRequest = requests.get(iosJsonAddr)
+    except Exception:
+        continue
 
-print(ios_json)
-print(android_json)
+    if not iosRequest or iosRequest.status_code != 200:
+        # 200 is 'ok'
+        continue
+    else:
+        iosJson = json.loads(iosRequest.text)
+        break
+
+if not iosJson:
+    iosJson = "LOAD JSON FROM CACHE"
+
+print(iosJson)
