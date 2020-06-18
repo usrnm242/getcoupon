@@ -48,5 +48,5 @@ assert iosJson
 req = requests.get(f"{serverAddr}{adsPath}")
 assert req
 ads = req.text
-print(ads)
+# print(ads)
 # print(iosJson)

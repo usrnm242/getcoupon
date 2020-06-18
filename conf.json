@@ -1,6 +1,6 @@
 {
     "defaultServer": {
-        "serverAddress": "http://newtestnginx.jelastic.regruhosting.ru",
+        "serverAddress": "http://closeyoureyes.jelastic.regruhosting.ru",
         "iosJson": "/ios-collections.json",
         "androidJson": "/android-collections.json",
         "ads": "/adspromo/ads.json"
