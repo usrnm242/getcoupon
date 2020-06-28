@@ -44,9 +44,11 @@ else:
     iosJson = json.loads(iosRequest.text)
 
 assert iosJson
+# print(len(str(iosJson)))
+# print(len(str(iosJson).replace('https://', '')))
 
 req = requests.get(f"{serverAddr}{adsPath}")
 assert req
 ads = req.text
-# print(ads)
+print(ads)
 # print(iosJson)
