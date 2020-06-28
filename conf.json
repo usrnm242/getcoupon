@@ -13,5 +13,6 @@
     },
     "AppStoreLink": "https://example.com",
     "GooglePlayLink": "https://example.com",
-    "contactEmail": "@gmail.com"
+    "contactEmail": "@gmail.com",
+    "iosLicense": "https://usrnm242.github.io/getcoupon/ios-license.txt"
 }
