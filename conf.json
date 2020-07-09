@@ -1,9 +1,9 @@
 {
     "defaultServer": {
-        "serverAddress": "http://closeyoureyes.jelastic.regruhosting.ru",
+        "serverAddress": "https://usrnm242.github.io/getcoupon",
         "iosJson": "/ios-collections.json",
         "androidJson": "/android-collections.json",
-        "ads": "/adspromo/ads.json"
+        "ads": ""
     },
     "reservedServer": {
         "serverAddress": "https://www.dropbox.com/s/qge216pbfilhy08",
