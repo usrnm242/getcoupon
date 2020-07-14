@@ -1,15 +1,19 @@
 {
     "defaultServer": {
         "serverAddress": "http://closeyoureyes.jelastic.regruhosting.ru",
-        "iosJson": "/ios-collections.json",
-        "androidJson": "/android-collections.json",
-        "ads": "/adspromo/ads.json"
+        "iosJson": "/ios-collections",
+        "androidJson": "/android-collections",
+        "ads": "/adspromo/ads.json",
+        "iosAds": "/ios-ads",
+        "androidAds": "/android-ads"
     },
     "reservedServer": {
         "serverAddress": "https://usrnm242.github.io/getcoupon",
         "iosJson": "/ios-collections.json",
         "androidJson": "/android-collections.json",
-        "ads": ""
+        "ads": "",
+        "iosAds": "",
+        "androidAds": ""
     },
     "AppStoreLink": "https://example.com",
     "GooglePlayLink": "https://example.com",
