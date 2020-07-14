@@ -1,9 +1,9 @@
 {
     "defaultServer": {
         "serverAddress": "http://closeyoureyes.jelastic.regruhosting.ru",
-        "iosJson": "/ios-collections",
-        "androidJson": "/android-collections",
-        "ads": "/ios-ads",
+        "iosJson": "/json-collections/ios-collections.json",
+        "androidJson": "/json-collections/android-collections.json",
+        "ads": "",
         "iosAds": "/ios-ads",
         "androidAds": "/android-ads"
     },
