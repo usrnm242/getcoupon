@@ -3,7 +3,7 @@
         "serverAddress": "http://closeyoureyes.jelastic.regruhosting.ru",
         "iosJson": "/ios-collections",
         "androidJson": "/android-collections",
-        "ads": "/adspromo/ads.json",
+        "ads": "/ios-ads",
         "iosAds": "/ios-ads",
         "androidAds": "/android-ads"
     },
