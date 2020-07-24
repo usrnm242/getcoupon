@@ -1,6 +1,6 @@
 {
     "defaultServer": {
-        "serverAddress": "http://closeyoureyes.jelastic.regruhosting.ru",
+        "serverAddress": "http://getcoupon.jelastic.regruhosting.ru",
         "iosJson": "/ios-json/ios-collections.json",
         "iosAds": "/ios-json/ios-ads.json",
         "androidJson": "/android-json/android-collections.json",

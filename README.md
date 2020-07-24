@@ -1,19 +1,18 @@
-# GetCoupon app
+# GetCoupon — все купоны у нас!
 
-An [app](https://example.com) for convenient coupons searching.
+Приложение для удобного поиска промокодов.
+Забудьте навсегда о сложном поиске купонов и недействительных промокодах!
 
-## Our advantages
+## Наши преимущества
 
-1. Valid coupons
-2. Easy to find shop you need
-3. Coupons history
+1. Рабочие промокоды
+2. Легкий поиск магазина
+3. История купонов
 
-**Download** and _share_ our app.
+**Скачивайте** и _делитесь_ нашим приложением!
 
-Download in
+Скачивайте в
 - [App store](https://example.com)
 - [Google play](https://example.com)
 
 ![Image](https://usrnm242.github.io/getcoupon/promologo.png)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
