@@ -4,7 +4,7 @@
         "iosJson": "/ios-json/ios-collections.json",
         "iosAds": "/ios-json/ios-ads.json",
         "androidJson": "/android-json/android-collections.json",
-        "androidAds": "/android-json/android-ads.json"
+        "androidAds": "/android-json/test_ads.json"
     },
     "reservedServer": {
         "serverAddress": "https://usrnm242.github.io/getcoupon",
