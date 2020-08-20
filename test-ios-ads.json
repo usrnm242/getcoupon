@@ -3,12 +3,12 @@
   "linkedSection": 0,
   "adsList": [
    {
-    "imageLink": "https://usrnm242.github.io/getcoupon/test-images/1.jpg",
+    "imageLink": "https://usrnm242.github.io/getcoupon/test-images/1.png",
     "websiteLink": "https://example.com",
     "priority": 1
    },
    {
-    "imageLink": "https://usrnm242.github.io/getcoupon/test-images/2.jpg",
+    "imageLink": "https://usrnm242.github.io/getcoupon/test-images/2.png",
     "websiteLink": "https://example.com",
     "priority": 1
    }
@@ -18,7 +18,7 @@
   "linkedSection": 1,
   "adsList": [
    {
-    "imageLink": "https://usrnm242.github.io/getcoupon/test-images/3.jpg",
+    "imageLink": "https://usrnm242.github.io/getcoupon/test-images/3.png",
     "websiteLink": "https://example.com",
     "priority": 1
    }
@@ -28,7 +28,7 @@
   "linkedSection": 9,
   "adsList": [
    {
-    "imageLink": "https://usrnm242.github.io/getcoupon/test-images/4.jpg",
+    "imageLink": "https://usrnm242.github.io/getcoupon/test-images/4.png",
     "websiteLink": "https://example.com",
     "priority": 1
    }
