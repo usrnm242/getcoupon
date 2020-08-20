@@ -1,0 +1,21 @@
+{
+    "defaultServer": {
+        "serverAddress": "https://usrnm242.github.io/getcoupon",
+        "iosJson": "/test-ios-collections.json",
+        "iosAds": "/test-ios-ads.json",
+        "androidJson": "",
+        "androidAds": ""
+    },
+    "reservedServer": {
+        "serverAddress": "https://usrnm242.github.io/getcoupon",
+        "iosJson": "",
+        "iosAds": "",
+        "androidJson": "",
+        "androidAds": ""
+    },
+    "AppStoreLink": "https://example.com",
+    "GooglePlayLink": "https://example.com",
+    "contactEmail": "info.getcoupon@gmail.com",
+    "iosLicense": "https://usrnm242.github.io/getcoupon/ios-license.txt",
+    "androidLicense": "https://usrnm242.github.io/getcoupon/android-license.txt"
+}

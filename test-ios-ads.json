@@ -1,0 +1,37 @@
+[
+ {
+  "linkedSection": 0,
+  "adsList": [
+   {
+    "imageLink": "https://usrnm242.github.io/getcoupon/test-images/1.jpg",
+    "websiteLink": "https://example.com",
+    "priority": 1
+   },
+   {
+    "imageLink": "https://usrnm242.github.io/getcoupon/test-images/2.jpg",
+    "websiteLink": "https://example.com",
+    "priority": 1
+   }
+  ]
+ },
+ {
+  "linkedSection": 1,
+  "adsList": [
+   {
+    "imageLink": "https://usrnm242.github.io/getcoupon/test-images/3.jpg",
+    "websiteLink": "https://example.com",
+    "priority": 1
+   }
+  ]
+ },
+ {
+  "linkedSection": 9,
+  "adsList": [
+   {
+    "imageLink": "https://usrnm242.github.io/getcoupon/test-images/4.jpg",
+    "websiteLink": "https://example.com",
+    "priority": 1
+   }
+  ]
+ }
+]
