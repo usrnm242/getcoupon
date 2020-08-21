@@ -16,6 +16,7 @@
     "AppStoreLink": "https://example.com",
     "GooglePlayLink": "https://example.com",
     "contactEmail": "info.getcoupon@gmail.com",
+    "businessCardWebsite": "https://uadd.me/getcoupon",
     "iosLicense": "https://usrnm242.github.io/getcoupon/ios-license.txt",
     "androidLicense": "https://usrnm242.github.io/getcoupon/android-license.txt"
 }
