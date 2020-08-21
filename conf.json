@@ -6,13 +6,6 @@
         "androidJson": "/android-json/android-collections.json",
         "androidAds": "/android-json/test_ads.json"
     },
-    "reservedServer": {
-        "serverAddress": "https://usrnm242.github.io/getcoupon",
-        "iosJson": "",
-        "iosAds": "",
-        "androidJson": "",
-        "androidAds": ""
-    },
     "AppStoreLink": "https://example.com",
     "GooglePlayLink": "https://example.com",
     "contactEmail": "info.getcoupon@gmail.com",
