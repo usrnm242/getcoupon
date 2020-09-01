@@ -4,7 +4,7 @@
         "iosJson": "/ios-json/ios-collections.json",
         "iosAds": "/ios-json/ios-ads.json",
         "androidJson": "/android-json/android-collections.json",
-        "androidAds": "/android-json/test_ads.json"
+        "androidAds": "/android-json/android-ads.json"
     },
     "AppStoreLink": "https://example.com",
     "GooglePlayLink": "https://example.com",
