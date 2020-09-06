@@ -7,7 +7,7 @@
         "androidAds": "/android-json/android-ads.json"
     },
     "AppStoreLink": "https://example.com",
-    "GooglePlayLink": "https://example.com",
+    "GooglePlayLink": "https://play.google.com/store/apps/details?id=ru.sukhikh.appgetcoupon",
     "contactEmail": "info@get-coupon.ru",
     "businessCardWebsite": "https://uadd.me/getcoupon",
     "iosLicense": "https://usrnm242.github.io/getcoupon/ios-license.txt",
